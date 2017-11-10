@@ -1,0 +1,46 @@
+{
+	"name": "Worklife-theme",
+	"displayName": "WorkLife",
+	"description": "WorkLife theme for Visual Studio Code",
+	"version": "1.0.0",
+	"publisher": "brettpappas",
+	"bugs": {
+		"url": "https://github.com/brettpappas/WorkLife-Theme/issues"
+	},
+	"homepage": "https://brettpappas.github.io/WorkLife-Theme/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/brettpappas/WorkLife-Theme"
+	},
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "WorkLife",
+				"uiTheme": "vs-dark",
+				"path": "./themes/WorkLife.json"
+			}
+		]
+	},
+	"icon": "icon.png",
+	"keywords": [
+		"worklife",
+		"work life",
+		"one dark pro",
+		"theme",
+		"atom"
+	],
+	"devDependencies": {
+		"docsify-cli": "^3.3.2"
+	},
+	"__metadata": {
+		"id": "",
+		"publisherId": "",
+		"publisherDisplayName": "brettpappas"
+	}
+}
