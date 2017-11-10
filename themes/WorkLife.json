@@ -16,7 +16,7 @@
     "editorError.foreground": "#c24038",
     "editorMarkerNavigation.background": "#21252b",
     "editorRuler.foreground": "#AAB1C026",
-    "editor.lineHighlightBackground": "#383E4A",
+    "editor.lineHighlightBackground": "#00000011",
     "editor.selectionBackground": "#484e5b",
     "editor.selectionHighlightBackground": "#484e5b",
     "editorCursor.foreground": "#f8f8f0",
@@ -514,7 +514,7 @@
       "name": "Variables",
       "scope": "variable",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#f58f00"
       }
     },
     {
@@ -1140,7 +1140,8 @@
       "name": "php dollar sign",
       "scope": "punctuation.definition.variable.php",
       "settings": {
-        "foreground": "#EF596F"
+        "fontStyle": "normal",
+        "foreground": "#f59f10"
       }
     },
     {
